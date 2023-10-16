@@ -1,3 +1,2 @@
-pyautogui
-pynput
-pathlib
+PyAutoGUI==0.9.52
+pynput==1.7.6
